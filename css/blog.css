@@ -71,6 +71,11 @@ h6, .h6 {
     width: 970px;
   }
 }
+@media (max-width: 991px) { 
+  #subscribe-box h4 {
+    text-align: center;
+  }
+}
 
 /* Active state gets a caret at the bottom */
 .blog-nav .active {
